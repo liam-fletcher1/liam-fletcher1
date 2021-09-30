@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Liam Fletcher and I have a student at St. Mother Teresa HS, Ottawa, Ontario
+
+NOW:
+
+⚙️ Some programs I know how to user: .js, .html, .css, .py, .cpp
 
 <!--
 **liam-fletcher1/liam-fletcher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
