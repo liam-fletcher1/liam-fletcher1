@@ -4,7 +4,8 @@ My name is Liam Fletcher and I have a student at St. Mother Teresa HS, Ottawa, O
 
 NOW:
 
-⚙️ Some programs I know how to user: .js, .html, .css, .py, .cpp
+⚙️ Some programs I am currently learning: .js, .html, .css, .py, .cpp
+🌍 I enjoy photography and taking photos outdoors
 
 <!--
 **liam-fletcher1/liam-fletcher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
