@@ -7,7 +7,9 @@ NOW:
 <li>
 ⚙️ Some programs I am currently learning: .js, .html, .css, .py, .cpp
 <li>
-🌍 I enjoy photography and taking photos outdoors
+💻  Linux certified!
+<li>
+🌍 I enjoy photography and taking photos outdoors!
 
 <!--
 **liam-fletcher1/liam-fletcher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
