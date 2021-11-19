@@ -5,7 +5,7 @@ My name is Liam Fletcher and I have a student at St. Mother Teresa HS, Ottawa, O
 NOW:
 
 <li>
-⚙️ Some programs I am currently learning: .js, .html, .css, .py, .cpp
+⚙️ Some programs I am currently learning: .js, .html, .css, .py, .cpp, .java,
 <li>
 💻  Linux certified!
 <li>
