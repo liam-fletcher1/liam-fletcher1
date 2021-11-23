@@ -9,7 +9,7 @@ NOW:
 <li>
 💻  Linux certified!
 <li>
-🌍 I enjoy photography and taking photos outdoors!
+🌍 I enjoy photography and video games!
 
 <!--
 **liam-fletcher1/liam-fletcher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
